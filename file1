@@ -1,0 +1,5 @@
+dev branch line 1
+<<<<<<< HEAD
+dev branch line 2
+=======
+>>>>>>> parent of 19e6d00 ( dev c2)
